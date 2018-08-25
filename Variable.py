@@ -16,5 +16,5 @@ print(type(x))
 print(x)
 
 del x
-print(x)
+#print(x)
 
